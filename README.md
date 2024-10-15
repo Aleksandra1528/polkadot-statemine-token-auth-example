@@ -5,7 +5,7 @@
 You can set env variables in .env file
 
 ```bash
-RPC_PROVIDER="wss://kusama-asset-hub-rpc.polkadot.io"
+RPC_PROVIDER="wss://westend-asset-hub-rpc.polkadot.io"
 TOKEN_ID="1441" # TokenId for checking users balance
 SECRET="ABCDE" # Secret for making JWT tokens
 
